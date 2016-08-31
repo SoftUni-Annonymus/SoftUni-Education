@@ -1,0 +1,1 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\09.DayOfWeek\bin\Debug\09.DayOfWeek.exe.config

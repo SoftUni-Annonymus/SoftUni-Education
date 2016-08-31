@@ -1,0 +1,5 @@
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\09.House\bin\Debug\09.House.exe.config
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\09.House\bin\Debug\09.House.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\09.House\bin\Debug\09.House.pdb
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\09.House\obj\Debug\09.House.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\09.House\obj\Debug\09.House.pdb

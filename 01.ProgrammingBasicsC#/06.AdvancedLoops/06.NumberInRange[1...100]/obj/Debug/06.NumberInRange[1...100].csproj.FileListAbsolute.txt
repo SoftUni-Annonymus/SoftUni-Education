@@ -1,0 +1,5 @@
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\06.AdvancedLoops\06.NumberInRange[1...100]\bin\Debug\_06.NumberInRange_1._._._100_.exe.config
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\06.AdvancedLoops\06.NumberInRange[1...100]\bin\Debug\_06.NumberInRange_1._._._100_.exe
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\06.AdvancedLoops\06.NumberInRange[1...100]\bin\Debug\_06.NumberInRange_1._._._100_.pdb
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\06.AdvancedLoops\06.NumberInRange[1...100]\obj\Debug\_06.NumberInRange_1._._._100_.exe
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\06.AdvancedLoops\06.NumberInRange[1...100]\obj\Debug\_06.NumberInRange_1._._._100_.pdb

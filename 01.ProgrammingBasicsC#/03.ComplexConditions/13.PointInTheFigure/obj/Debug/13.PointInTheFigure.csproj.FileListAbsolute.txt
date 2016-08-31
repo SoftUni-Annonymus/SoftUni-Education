@@ -1,0 +1,6 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\13.PointInTheFigure\bin\Debug\13.PointInTheFigure.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\13.PointInTheFigure\bin\Debug\13.PointInTheFigure.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\13.PointInTheFigure\bin\Debug\13.PointInTheFigure.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\13.PointInTheFigure\obj\Debug\13.PointInTheFigure.csprojResolveAssemblyReference.cache
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\13.PointInTheFigure\obj\Debug\13.PointInTheFigure.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\13.PointInTheFigure\obj\Debug\13.PointInTheFigure.pdb

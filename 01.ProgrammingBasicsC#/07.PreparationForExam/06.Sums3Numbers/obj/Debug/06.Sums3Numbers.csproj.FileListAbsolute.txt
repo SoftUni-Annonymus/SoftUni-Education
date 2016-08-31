@@ -1,0 +1,6 @@
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\06.Sums3Numbers\bin\Debug\06.Sums3Numbers.exe.config
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\06.Sums3Numbers\bin\Debug\06.Sums3Numbers.exe
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\06.Sums3Numbers\bin\Debug\06.Sums3Numbers.pdb
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\06.Sums3Numbers\obj\Debug\06.Sums3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\06.Sums3Numbers\obj\Debug\06.Sums3Numbers.exe
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\06.Sums3Numbers\obj\Debug\06.Sums3Numbers.pdb

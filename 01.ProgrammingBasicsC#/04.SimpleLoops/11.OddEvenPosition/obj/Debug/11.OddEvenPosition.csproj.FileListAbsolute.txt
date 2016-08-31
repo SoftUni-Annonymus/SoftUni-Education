@@ -1,0 +1,9 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\11.OddEvenPosition\bin\Debug\11.OddEvenPosition.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\11.OddEvenPosition\bin\Debug\11.OddEvenPosition.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\11.OddEvenPosition\bin\Debug\11.OddEvenPosition.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\11.OddEvenPosition\obj\Debug\11.OddEvenPosition.csprojResolveAssemblyReference.cache
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\11.OddEvenPosition\obj\Debug\11.OddEvenPosition.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\11.OddEvenPosition\obj\Debug\11.OddEvenPosition.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\04.SimpleLoops\11.OddEvenPosition\bin\Debug\11.OddEvenPosition.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\04.SimpleLoops\11.OddEvenPosition\obj\Debug\11.OddEvenPosition.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\04.SimpleLoops\11.OddEvenPosition\obj\Debug\11.OddEvenPosition.pdb

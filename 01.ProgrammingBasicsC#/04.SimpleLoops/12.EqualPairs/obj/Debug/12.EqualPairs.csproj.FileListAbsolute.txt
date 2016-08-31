@@ -1,0 +1,6 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\12.EqualPairs\bin\Debug\12.EqualPairs.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\12.EqualPairs\bin\Debug\12.EqualPairs.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\12.EqualPairs\bin\Debug\12.EqualPairs.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\12.EqualPairs\obj\Debug\12.EqualPairs.csprojResolveAssemblyReference.cache
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\12.EqualPairs\obj\Debug\12.EqualPairs.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\12.EqualPairs\obj\Debug\12.EqualPairs.pdb

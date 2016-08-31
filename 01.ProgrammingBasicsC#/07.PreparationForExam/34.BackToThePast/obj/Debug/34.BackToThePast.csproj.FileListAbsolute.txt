@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\34.BackToThePast\bin\Debug\34.BackToThePast.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\34.BackToThePast\bin\Debug\34.BackToThePast.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\34.BackToThePast\bin\Debug\34.BackToThePast.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\34.BackToThePast\obj\Debug\34.BackToThePast.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\34.BackToThePast\obj\Debug\34.BackToThePast.pdb

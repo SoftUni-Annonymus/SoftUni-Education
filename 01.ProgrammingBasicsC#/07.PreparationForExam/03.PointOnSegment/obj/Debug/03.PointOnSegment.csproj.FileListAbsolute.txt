@@ -1,0 +1,5 @@
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\03.PointOnSegment\bin\Debug\03.PointOnSegment.exe.config
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\03.PointOnSegment\bin\Debug\03.PointOnSegment.exe
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\03.PointOnSegment\bin\Debug\03.PointOnSegment.pdb
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\03.PointOnSegment\obj\Debug\03.PointOnSegment.exe
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\03.PointOnSegment\obj\Debug\03.PointOnSegment.pdb

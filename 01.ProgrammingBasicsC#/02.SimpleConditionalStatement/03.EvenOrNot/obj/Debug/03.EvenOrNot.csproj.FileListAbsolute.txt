@@ -1,0 +1,6 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\03.EvenOrNot\bin\Debug\03.EvenOrNot.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\03.EvenOrNot\bin\Debug\03.EvenOrNot.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\03.EvenOrNot\bin\Debug\03.EvenOrNot.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\03.EvenOrNot\obj\Debug\03.EvenOrNot.csprojResolveAssemblyReference.cache
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\03.EvenOrNot\obj\Debug\03.EvenOrNot.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\03.EvenOrNot\obj\Debug\03.EvenOrNot.pdb

@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\01.GitGitHubDebugging\03.InstructionSet\bin\Debug\03.InstructionSet.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\01.GitGitHubDebugging\03.InstructionSet\bin\Debug\03.InstructionSet.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\01.GitGitHubDebugging\03.InstructionSet\bin\Debug\03.InstructionSet.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\01.GitGitHubDebugging\03.InstructionSet\obj\Debug\03.InstructionSet.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\01.GitGitHubDebugging\03.InstructionSet\obj\Debug\03.InstructionSet.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\01.GitGitHubDebugging\03.InstructionSet\obj\Debug\03.InstructionSet.pdb

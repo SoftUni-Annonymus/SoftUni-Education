@@ -1,0 +1,5 @@
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\02.Bricks\bin\Debug\02.Bricks.exe.config
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\02.Bricks\bin\Debug\02.Bricks.exe
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\02.Bricks\bin\Debug\02.Bricks.pdb
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\02.Bricks\obj\Debug\02.Bricks.exe
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\02.Bricks\obj\Debug\02.Bricks.pdb

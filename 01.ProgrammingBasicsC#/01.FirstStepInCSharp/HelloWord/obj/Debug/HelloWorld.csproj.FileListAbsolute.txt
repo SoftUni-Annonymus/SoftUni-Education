@@ -1,0 +1,9 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\FirstStepInCSharp\HelloWord\bin\Debug\HelloWord.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\FirstStepInCSharp\HelloWord\bin\Debug\HelloWord.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\FirstStepInCSharp\HelloWord\bin\Debug\HelloWord.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\FirstStepInCSharp\HelloWord\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\P\Documents\Visual Studio 2015\Projects\FirstStepInCSharp\HelloWord\obj\Debug\HelloWord.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\FirstStepInCSharp\HelloWord\obj\Debug\HelloWord.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.FirstStepInCSharp\HelloWord\bin\Debug\HelloWord.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.FirstStepInCSharp\HelloWord\obj\Debug\HelloWord.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.FirstStepInCSharp\HelloWord\obj\Debug\HelloWord.pdb

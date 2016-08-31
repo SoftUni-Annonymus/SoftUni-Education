@@ -1,0 +1,6 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\12.Cinema\bin\Debug\12.Cinema.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\12.Cinema\bin\Debug\12.Cinema.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\12.Cinema\bin\Debug\12.Cinema.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\12.Cinema\obj\Debug\11.Cinema.csprojResolveAssemblyReference.cache
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\12.Cinema\obj\Debug\12.Cinema.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\12.Cinema\obj\Debug\12.Cinema.pdb

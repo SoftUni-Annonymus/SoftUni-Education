@@ -1,0 +1,12 @@
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\10.RectangleWithStars\bin\Debug\10.RectangleWithStars.exe.config
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\10.RectangleWithStars\bin\Debug\10.RectangleWithStars.exe
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\10.RectangleWithStars\bin\Debug\10.RectangleWithStars.pdb
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\10.RectangleWithStars\obj\Debug\10.RectangleWithStars.exe
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\10.RectangleWithStars\obj\Debug\10.RectangleWithStars.pdb
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\10.RectangleWithStars\obj\Debug\10.RectangleWithStars.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\10.RectangleWithStars\bin\Debug\10.RectangleWithStars.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\10.RectangleWithStars\obj\Debug\10.RectangleWithStars.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\10.RectangleWithStars\obj\Debug\10.RectangleWithStars.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\10.RectangleWithStars\bin\Debug\10.RectangleWithStars.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\10.RectangleWithStars\bin\Debug\10.RectangleWithStars.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\10.RectangleWithStars\obj\Debug\10.RectangleWithStars.csprojResolveAssemblyReference.cache

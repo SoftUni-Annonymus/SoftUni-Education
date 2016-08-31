@@ -1,0 +1,5 @@
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\06.AdvancedLoops\05.Sequence2k+1\bin\Debug\05.Sequence2k+1.exe.config
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\06.AdvancedLoops\05.Sequence2k+1\bin\Debug\05.Sequence2k+1.exe
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\06.AdvancedLoops\05.Sequence2k+1\bin\Debug\05.Sequence2k+1.pdb
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\06.AdvancedLoops\05.Sequence2k+1\obj\Debug\05.Sequence2k+1.exe
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\06.AdvancedLoops\05.Sequence2k+1\obj\Debug\05.Sequence2k+1.pdb

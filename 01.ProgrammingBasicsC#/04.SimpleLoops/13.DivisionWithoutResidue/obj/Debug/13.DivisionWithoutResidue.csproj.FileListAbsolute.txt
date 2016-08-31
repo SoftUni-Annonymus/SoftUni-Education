@@ -1,0 +1,6 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\13.DivisionWithoutResidue\bin\Debug\13.DivisionWithoutResidue.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\13.DivisionWithoutResidue\bin\Debug\13.DivisionWithoutResidue.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\13.DivisionWithoutResidue\bin\Debug\13.DivisionWithoutResidue.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\13.DivisionWithoutResidue\obj\Debug\13.DivisionWithoutResidue.csprojResolveAssemblyReference.cache
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\13.DivisionWithoutResidue\obj\Debug\13.DivisionWithoutResidue.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\13.DivisionWithoutResidue\obj\Debug\13.DivisionWithoutResidue.pdb

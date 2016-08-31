@@ -1,0 +1,5 @@
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\08.Sunglasses\bin\Debug\08.Sunglasses.exe.config
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\08.Sunglasses\bin\Debug\08.Sunglasses.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\08.Sunglasses\bin\Debug\08.Sunglasses.pdb
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\08.Sunglasses\obj\Debug\08.Sunglasses.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\08.Sunglasses\obj\Debug\08.Sunglasses.pdb

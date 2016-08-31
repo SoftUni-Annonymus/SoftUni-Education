@@ -1,0 +1,9 @@
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\01.RectangleOf10x10Stars\bin\Debug\01.RectangleOf10x10Stars.exe.config
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\01.RectangleOf10x10Stars\bin\Debug\01.RectangleOf10x10Stars.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\01.RectangleOf10x10Stars\bin\Debug\01.RectangleOf10x10Stars.pdb
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\01.RectangleOf10x10Stars\obj\Debug\01.RectangleOf10x10Stars.csprojResolveAssemblyReference.cache
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\01.RectangleOf10x10Stars\obj\Debug\01.RectangleOf10x10Stars.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\01.RectangleOf10x10Stars\obj\Debug\01.RectangleOf10x10Stars.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\05.DrawingFiguresWithLoops\01.RectangleOf10x10Stars\bin\Debug\01.RectangleOf10x10Stars.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\05.DrawingFiguresWithLoops\01.RectangleOf10x10Stars\obj\Debug\01.RectangleOf10x10Stars.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\05.DrawingFiguresWithLoops\01.RectangleOf10x10Stars\obj\Debug\01.RectangleOf10x10Stars.pdb

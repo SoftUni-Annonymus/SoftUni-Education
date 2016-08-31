@@ -1,0 +1,5 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\15.OnTimeForTheExam\bin\Debug\15.OnTimeForTheExam.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\15.OnTimeForTheExam\bin\Debug\15.OnTimeForTheExam.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\15.OnTimeForTheExam\bin\Debug\15.OnTimeForTheExam.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\15.OnTimeForTheExam\obj\Debug\15.OnTimeForTheExam.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\15.OnTimeForTheExam\obj\Debug\15.OnTimeForTheExam.pdb

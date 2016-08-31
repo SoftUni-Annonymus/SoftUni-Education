@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\01.GitGitHubDebugging\02.DoublePalindromes\bin\Debug\02.DoublePalindromes.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\01.GitGitHubDebugging\02.DoublePalindromes\bin\Debug\02.DoublePalindromes.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\01.GitGitHubDebugging\02.DoublePalindromes\bin\Debug\02.DoublePalindromes.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\01.GitGitHubDebugging\02.DoublePalindromes\obj\Debug\02.DoublePalindromes.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\01.GitGitHubDebugging\02.DoublePalindromes\obj\Debug\02.DoublePalindromes.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\01.GitGitHubDebugging\02.DoublePalindromes\obj\Debug\02.DoublePalindromes.csprojResolveAssemblyReference.cache

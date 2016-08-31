@@ -1,0 +1,1 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\03.PointInRectangle\bin\Debug\03.PointInRectangle.exe.config

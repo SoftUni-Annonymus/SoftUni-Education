@@ -1,0 +1,5 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\14.Histogram\bin\Debug\14.Histogram.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\14.Histogram\bin\Debug\14.Histogram.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\14.Histogram\bin\Debug\14.Histogram.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\14.Histogram\obj\Debug\14.Histogram.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleLoops\14.Histogram\obj\Debug\14.Histogram.pdb

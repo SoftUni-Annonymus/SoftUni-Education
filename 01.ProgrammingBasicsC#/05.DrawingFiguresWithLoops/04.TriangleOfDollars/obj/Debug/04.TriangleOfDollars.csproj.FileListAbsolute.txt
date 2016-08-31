@@ -1,0 +1,5 @@
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\04.TriangleOfDollars\bin\Debug\04.TriangleOfDollars.exe.config
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\04.TriangleOfDollars\bin\Debug\04.TriangleOfDollars.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\04.TriangleOfDollars\bin\Debug\04.TriangleOfDollars.pdb
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\04.TriangleOfDollars\obj\Debug\04.TriangleOfDollars.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\04.TriangleOfDollars\obj\Debug\04.TriangleOfDollars.pdb

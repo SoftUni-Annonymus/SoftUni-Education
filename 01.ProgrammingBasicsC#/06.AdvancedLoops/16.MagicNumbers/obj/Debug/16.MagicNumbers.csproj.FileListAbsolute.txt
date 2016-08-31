@@ -1,0 +1,5 @@
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\16.MagicNumbers\bin\Debug\16.MagicNumbers.exe.config
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\16.MagicNumbers\bin\Debug\16.MagicNumbers.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\16.MagicNumbers\bin\Debug\16.MagicNumbers.pdb
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\16.MagicNumbers\obj\Debug\16.MagicNumbers.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\16.MagicNumbers\obj\Debug\16.MagicNumbers.pdb

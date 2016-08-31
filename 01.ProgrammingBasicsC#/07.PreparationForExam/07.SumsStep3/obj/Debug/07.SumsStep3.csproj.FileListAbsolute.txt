@@ -1,0 +1,9 @@
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\07.SumsStep3\bin\Debug\07.SumsStep3.exe.config
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\07.SumsStep3\bin\Debug\07.SumsStep3.exe
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\07.SumsStep3\bin\Debug\07.SumsStep3.pdb
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\07.SumsStep3\obj\Debug\07.SumsStep3.csprojResolveAssemblyReference.cache
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\07.SumsStep3\obj\Debug\07.SumsStep3.exe
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\07.SumsStep3\obj\Debug\07.SumsStep3.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\07.SumsStep3\bin\Debug\07.SumsStep3.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\07.SumsStep3\obj\Debug\07.SumsStep3.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\07.SumsStep3\obj\Debug\07.SumsStep3.pdb

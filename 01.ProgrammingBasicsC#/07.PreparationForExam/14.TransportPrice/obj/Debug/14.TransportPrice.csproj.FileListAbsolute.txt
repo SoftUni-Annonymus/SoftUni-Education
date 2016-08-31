@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\14.TransportPrice\bin\Debug\14.TransportPrice.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\14.TransportPrice\bin\Debug\14.TransportPrice.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\14.TransportPrice\bin\Debug\14.TransportPrice.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\14.TransportPrice\obj\Debug\14.TransportPrice.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\14.TransportPrice\obj\Debug\14.TransportPrice.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\14.TransportPrice\obj\Debug\14.TransportPrice.pdb

@@ -1,0 +1,5 @@
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\14.NumberTable\bin\Debug\14.NumberTable.exe.config
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\14.NumberTable\bin\Debug\14.NumberTable.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\14.NumberTable\bin\Debug\14.NumberTable.pdb
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\14.NumberTable\obj\Debug\14.NumberTable.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\14.NumberTable\obj\Debug\14.NumberTable.pdb

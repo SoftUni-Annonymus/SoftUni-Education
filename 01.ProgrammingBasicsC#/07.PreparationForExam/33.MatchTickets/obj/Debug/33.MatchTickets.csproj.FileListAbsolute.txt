@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\33.MatchTickets\bin\Debug\33.MatchTickets.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\33.MatchTickets\bin\Debug\33.MatchTickets.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\33.MatchTickets\bin\Debug\33.MatchTickets.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\33.MatchTickets\obj\Debug\33.MatchTickets.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\33.MatchTickets\obj\Debug\33.MatchTickets.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\33.MatchTickets\obj\Debug\33.MatchTickets.pdb

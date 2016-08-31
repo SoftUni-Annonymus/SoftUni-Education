@@ -1,0 +1,5 @@
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\10.Diamond\bin\Debug\10.Diamond.exe.config
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\10.Diamond\bin\Debug\10.Diamond.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\10.Diamond\bin\Debug\10.Diamond.pdb
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\10.Diamond\obj\Debug\10.Diamond.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\10.Diamond\obj\Debug\10.Diamond.pdb

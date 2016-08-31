@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\27.OperationsBetweenNumbers\bin\Debug\27.OperationsBetweenNumbers.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\27.OperationsBetweenNumbers\bin\Debug\27.OperationsBetweenNumbers.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\27.OperationsBetweenNumbers\bin\Debug\27.OperationsBetweenNumbers.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\27.OperationsBetweenNumbers\obj\Debug\27.OperationsBetweenNumbers.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\27.OperationsBetweenNumbers\obj\Debug\27.OperationsBetweenNumbers.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\27.OperationsBetweenNumbers\obj\Debug\27.OperationsBetweenNumbers.csprojResolveAssemblyReference.cache

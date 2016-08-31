@@ -1,0 +1,6 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\03.ComplexConditions\16.OperationWithNumbers\bin\Debug\16.OperationWithNumbers.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\03.ComplexConditions\16.OperationWithNumbers\bin\Debug\16.OperationWithNumbers.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\03.ComplexConditions\16.OperationWithNumbers\bin\Debug\16.OperationWithNumbers.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\03.ComplexConditions\16.OperationWithNumbers\obj\Debug\16.OperationWithNumbers.csprojResolveAssemblyReference.cache
+C:\Users\P\Documents\Visual Studio 2015\Projects\03.ComplexConditions\16.OperationWithNumbers\obj\Debug\16.OperationWithNumbers.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\03.ComplexConditions\16.OperationWithNumbers\obj\Debug\16.OperationWithNumbers.pdb

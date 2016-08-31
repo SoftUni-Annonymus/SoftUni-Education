@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\28.SmartLily\bin\Debug\28.SmartLily.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\28.SmartLily\bin\Debug\28.SmartLily.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\28.SmartLily\bin\Debug\28.SmartLily.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\28.SmartLily\obj\Debug\28.SmartLily.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\28.SmartLily\obj\Debug\28.SmartLily.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\28.SmartLily\obj\Debug\28.SmartLily.pdb

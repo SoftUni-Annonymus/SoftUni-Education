@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\36.StopNumber\bin\Debug\36.StopNumber.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\36.StopNumber\bin\Debug\36.StopNumber.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\36.StopNumber\bin\Debug\36.StopNumber.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\36.StopNumber\obj\Debug\36.StopNumber.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\36.StopNumber\obj\Debug\36.StopNumber.pdb

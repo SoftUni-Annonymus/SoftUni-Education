@@ -1,0 +1,5 @@
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\12.Fibonacci\bin\Debug\12.Fibonacci.exe.config
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\12.Fibonacci\bin\Debug\12.Fibonacci.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\12.Fibonacci\bin\Debug\12.Fibonacci.pdb
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\12.Fibonacci\obj\Debug\12.Fibonacci.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\12.Fibonacci\obj\Debug\12.Fibonacci.pdb

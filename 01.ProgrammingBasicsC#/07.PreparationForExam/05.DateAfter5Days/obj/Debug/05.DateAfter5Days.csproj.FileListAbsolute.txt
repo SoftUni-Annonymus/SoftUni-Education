@@ -1,0 +1,13 @@
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\05.DateAfter5Days\bin\Debug\05.DateAfter5Days.exe.config
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\05.DateAfter5Days\bin\Debug\05.DateAfter5Days.exe
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\05.DateAfter5Days\bin\Debug\05.DateAfter5Days.pdb
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.csprojResolveAssemblyReference.cache
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.exe
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.pdb
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\05.DateAfter5Days\bin\Debug\05.DateAfter5Days.exe.config
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.exe
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\05.DateAfter5Days\bin\Debug\05.DateAfter5Days.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.csprojResolveAssemblyReference.cache

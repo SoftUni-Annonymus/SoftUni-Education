@@ -1,0 +1,6 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\12.SpeedInfo\bin\Debug\12.SpeedInfo.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\12.SpeedInfo\obj\Debug\12.SpeedInfo.csprojResolveAssemblyReference.cache
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\12.SpeedInfo\bin\Debug\12.SpeedInfo.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\12.SpeedInfo\bin\Debug\12.SpeedInfo.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\12.SpeedInfo\obj\Debug\12.SpeedInfo.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\12.SpeedInfo\obj\Debug\12.SpeedInfo.pdb

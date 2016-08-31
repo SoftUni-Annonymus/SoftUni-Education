@@ -1,0 +1,9 @@
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\04.PointInFigure\bin\Debug\04.PointInFigure.exe.config
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\04.PointInFigure\bin\Debug\04.PointInFigure.exe
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\04.PointInFigure\bin\Debug\04.PointInFigure.pdb
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\04.PointInFigure\obj\Debug\04.PointInFigure.exe
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\04.PointInFigure\obj\Debug\04.PointInFigure.pdb
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\04.PointInFigure\obj\Debug\04.PointInFigure.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\04.PointInFigure\bin\Debug\04.PointInFigure.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\04.PointInFigure\obj\Debug\04.PointInFigure.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\04.PointInFigure\obj\Debug\04.PointInFigure.pdb

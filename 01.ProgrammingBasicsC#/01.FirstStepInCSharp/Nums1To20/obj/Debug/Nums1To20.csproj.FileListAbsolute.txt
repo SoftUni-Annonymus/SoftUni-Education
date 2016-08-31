@@ -1,0 +1,5 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\FirstStepInCSharp\Nums1To20\bin\Debug\Nums1To20.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\FirstStepInCSharp\Nums1To20\bin\Debug\Nums1To20.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\FirstStepInCSharp\Nums1To20\bin\Debug\Nums1To20.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\FirstStepInCSharp\Nums1To20\obj\Debug\Nums1To20.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\FirstStepInCSharp\Nums1To20\obj\Debug\Nums1To20.pdb

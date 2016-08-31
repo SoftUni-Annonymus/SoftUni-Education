@@ -1,0 +1,12 @@
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\01.TriangleArea\bin\Debug\01.TriangleArea.exe.config
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\01.TriangleArea\bin\Debug\01.TriangleArea.exe
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\01.TriangleArea\bin\Debug\01.TriangleArea.pdb
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\01.TriangleArea\obj\Debug\01.TriangleArea.csprojResolveAssemblyReference.cache
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\01.TriangleArea\obj\Debug\01.TriangleArea.exe
+c:\users\uzunov\documents\visual studio 2015\Projects\PreparationForExam\01.TriangleArea\obj\Debug\01.TriangleArea.pdb
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\01.TriangleArea\bin\Debug\01.TriangleArea.exe.config
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\01.TriangleArea\obj\Debug\01.TriangleArea.exe
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\01.TriangleArea\obj\Debug\01.TriangleArea.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\01.TriangleArea\bin\Debug\01.TriangleArea.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\01.TriangleArea\obj\Debug\01.TriangleArea.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\01.TriangleArea\obj\Debug\01.TriangleArea.pdb

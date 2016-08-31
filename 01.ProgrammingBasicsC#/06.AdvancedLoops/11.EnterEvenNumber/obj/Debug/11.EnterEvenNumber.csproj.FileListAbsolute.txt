@@ -1,0 +1,5 @@
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\11.EnterEvenNumber\bin\Debug\11.EnterEvenNumber.exe.config
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\11.EnterEvenNumber\bin\Debug\11.EnterEvenNumber.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\11.EnterEvenNumber\bin\Debug\11.EnterEvenNumber.pdb
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\11.EnterEvenNumber\obj\Debug\11.EnterEvenNumber.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\06.AdvancedLoops\11.EnterEvenNumber\obj\Debug\11.EnterEvenNumber.pdb

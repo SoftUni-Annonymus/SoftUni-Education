@@ -1,0 +1,5 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\05.NumberFrom0To9InText\bin\Debug\05.NumberFrom0To9InText.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\05.NumberFrom0To9InText\bin\Debug\05.NumberFrom0To9InText.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\05.NumberFrom0To9InText\bin\Debug\05.NumberFrom0To9InText.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\05.NumberFrom0To9InText\obj\Debug\05.NumberFrom0To9InText.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\05.NumberFrom0To9InText\obj\Debug\05.NumberFrom0To9InText.pdb

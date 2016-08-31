@@ -1,0 +1,5 @@
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\08.IncreasingElements\bin\Debug\08.IncreasingElements.exe.config
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\08.IncreasingElements\bin\Debug\08.IncreasingElements.exe
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\08.IncreasingElements\bin\Debug\08.IncreasingElements.pdb
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\08.IncreasingElements\obj\Debug\08.IncreasingElements.exe
+C:\Users\Uzunov\Documents\Visual Studio 2015\Projects\07.PreparationForExam\08.IncreasingElements\obj\Debug\08.IncreasingElements.pdb

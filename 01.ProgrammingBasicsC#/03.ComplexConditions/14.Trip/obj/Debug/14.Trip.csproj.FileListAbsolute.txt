@@ -1,0 +1,6 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\14.Trip\bin\Debug\14.Trip.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\14.Trip\bin\Debug\14.Trip.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\14.Trip\bin\Debug\14.Trip.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\14.Trip\obj\Debug\14.Trip.csprojResolveAssemblyReference.cache
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\14.Trip\obj\Debug\14.Trip.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\14.Trip\obj\Debug\14.Trip.pdb

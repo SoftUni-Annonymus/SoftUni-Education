@@ -1,0 +1,5 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\06.BonusScore\bin\Debug\06.BonusScore.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\06.BonusScore\bin\Debug\06.BonusScore.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\06.BonusScore\bin\Debug\06.BonusScore.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\06.BonusScore\obj\Debug\06.BonusScore.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\SimpleConditionalStatement\06.BonusScore\obj\Debug\06.BonusScore.pdb

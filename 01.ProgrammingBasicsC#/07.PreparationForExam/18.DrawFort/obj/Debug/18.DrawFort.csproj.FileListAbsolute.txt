@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\18.DrawFort\bin\Debug\18.DrawFort.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\18.DrawFort\bin\Debug\18.DrawFort.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\18.DrawFort\bin\Debug\18.DrawFort.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\18.DrawFort\obj\Debug\18.DrawFort.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\18.DrawFort\obj\Debug\18.DrawFort.pdb

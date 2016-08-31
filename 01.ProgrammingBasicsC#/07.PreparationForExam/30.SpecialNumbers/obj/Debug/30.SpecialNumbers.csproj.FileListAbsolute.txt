@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\30.SpecialNumbers\bin\Debug\30.SpecialNumbers.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\30.SpecialNumbers\bin\Debug\30.SpecialNumbers.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\30.SpecialNumbers\bin\Debug\30.SpecialNumbers.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\30.SpecialNumbers\obj\Debug\30.SpecialNumbers.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\30.SpecialNumbers\obj\Debug\30.SpecialNumbers.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\30.SpecialNumbers\obj\Debug\30.SpecialNumbers.pdb

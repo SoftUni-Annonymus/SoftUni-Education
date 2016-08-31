@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\22.DivisionWithoutResidue\bin\Debug\22.DivisionWithoutResidue.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\22.DivisionWithoutResidue\bin\Debug\22.DivisionWithoutResidue.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\22.DivisionWithoutResidue\bin\Debug\22.DivisionWithoutResidue.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\22.DivisionWithoutResidue\obj\Debug\22.DivisionWithoutResidue.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\22.DivisionWithoutResidue\obj\Debug\22.DivisionWithoutResidue.pdb

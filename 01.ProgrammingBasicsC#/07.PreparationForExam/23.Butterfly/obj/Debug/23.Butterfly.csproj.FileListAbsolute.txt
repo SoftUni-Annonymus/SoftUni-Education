@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\23.Butterfly\bin\Debug\23.Butterfly.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\23.Butterfly\bin\Debug\23.Butterfly.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\23.Butterfly\bin\Debug\23.Butterfly.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\23.Butterfly\obj\Debug\23.Butterfly.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\23.Butterfly\obj\Debug\23.Butterfly.pdb

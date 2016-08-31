@@ -1,0 +1,8 @@
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\07.ChristmasTree\bin\Debug\07.ChristmasTree.exe.config
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\07.ChristmasTree\bin\Debug\07.ChristmasTree.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\07.ChristmasTree\bin\Debug\07.ChristmasTree.pdb
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\07.ChristmasTree\obj\Debug\07.ChristmasTree.exe
+C:\Users\Uzunov\documents\visual studio 2015\Projects\05.DrawingFiguresWithLoops\07.ChristmasTree\obj\Debug\07.ChristmasTree.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\05.DrawingFiguresWithLoops\07.ChristmasTree\bin\Debug\07.ChristmasTree.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\05.DrawingFiguresWithLoops\07.ChristmasTree\obj\Debug\07.ChristmasTree.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\05.DrawingFiguresWithLoops\07.ChristmasTree\obj\Debug\07.ChristmasTree.pdb

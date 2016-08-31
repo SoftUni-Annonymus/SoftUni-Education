@@ -1,0 +1,6 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\05.InvalidNumber\bin\Debug\05.InvalidNumber.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\05.InvalidNumber\bin\Debug\05.InvalidNumber.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\05.InvalidNumber\bin\Debug\05.InvalidNumber.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\05.InvalidNumber\obj\Debug\05.InvalidNumber.csprojResolveAssemblyReference.cache
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\05.InvalidNumber\obj\Debug\05.InvalidNumber.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\05.InvalidNumber\obj\Debug\05.InvalidNumber.pdb

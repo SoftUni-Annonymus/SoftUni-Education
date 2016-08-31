@@ -1,0 +1,9 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\01.PersonalTitles\bin\Debug\01.PersonalTitles.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\01.PersonalTitles\bin\Debug\01.PersonalTitles.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\01.PersonalTitles\bin\Debug\01.PersonalTitles.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\01.PersonalTitles\obj\Debug\01.PersonalTitles.csprojResolveAssemblyReference.cache
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\01.PersonalTitles\obj\Debug\01.PersonalTitles.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\01.PersonalTitles\obj\Debug\01.PersonalTitles.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\03.ComplexConditions\01.PersonalTitles\bin\Debug\01.PersonalTitles.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\03.ComplexConditions\01.PersonalTitles\obj\Debug\01.PersonalTitles.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\03.ComplexConditions\01.PersonalTitles\obj\Debug\01.PersonalTitles.pdb

@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\26.SleepyTomCat\bin\Debug\26.SleepyTomCat.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\26.SleepyTomCat\bin\Debug\26.SleepyTomCat.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\26.SleepyTomCat\bin\Debug\26.SleepyTomCat.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\26.SleepyTomCat\obj\Debug\26.SleepyTomCat.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\26.SleepyTomCat\obj\Debug\26.SleepyTomCat.pdb

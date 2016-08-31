@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\24.MagicNumbers\bin\Debug\24.MagicNumbers.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\24.MagicNumbers\bin\Debug\24.MagicNumbers.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\24.MagicNumbers\bin\Debug\24.MagicNumbers.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\24.MagicNumbers\obj\Debug\24.MagicNumbers.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\24.MagicNumbers\obj\Debug\24.MagicNumbers.pdb

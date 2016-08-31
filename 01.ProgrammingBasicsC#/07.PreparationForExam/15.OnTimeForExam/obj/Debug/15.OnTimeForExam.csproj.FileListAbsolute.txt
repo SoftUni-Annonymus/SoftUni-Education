@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\15.OnTimeForExam\bin\Debug\15.OnTimeForExam.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\15.OnTimeForExam\bin\Debug\15.OnTimeForExam.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\15.OnTimeForExam\bin\Debug\15.OnTimeForExam.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\15.OnTimeForExam\obj\Debug\15.OnTimeForExam.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\07.PreparationForExam\15.OnTimeForExam\obj\Debug\15.OnTimeForExam.pdb

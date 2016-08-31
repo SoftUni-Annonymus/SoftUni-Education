@@ -1,0 +1,6 @@
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\07.FruitShop\bin\Debug\07.FruitShop.exe.config
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\07.FruitShop\bin\Debug\07.FruitShop.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\07.FruitShop\bin\Debug\07.FruitShop.pdb
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\07.FruitShop\obj\Debug\07.FruitShop.csprojResolveAssemblyReference.cache
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\07.FruitShop\obj\Debug\07.FruitShop.exe
+C:\Users\P\Documents\Visual Studio 2015\Projects\ComplexConditions\07.FruitShop\obj\Debug\07.FruitShop.pdb
