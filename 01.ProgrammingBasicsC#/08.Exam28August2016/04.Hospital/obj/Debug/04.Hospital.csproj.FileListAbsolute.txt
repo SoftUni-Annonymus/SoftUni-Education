@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\04.Hospital\bin\Debug\04.Hospital.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\04.Hospital\bin\Debug\04.Hospital.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\04.Hospital\bin\Debug\04.Hospital.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\04.Hospital\obj\Debug\04.Hospital.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\04.Hospital\obj\Debug\04.Hospital.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\04.Hospital\obj\Debug\04.Hospital.pdb

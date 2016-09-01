@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\01.Profit\bin\Debug\01.Profit.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\01.Profit\bin\Debug\01.Profit.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\01.Profit\bin\Debug\01.Profit.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\01.Profit\obj\Debug\01.Profit.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\01.Profit\obj\Debug\01.Profit.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\01.Profit\obj\Debug\01.Profit.pdb
