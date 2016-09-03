@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\06.Digits\bin\Debug\06.Digits.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\06.Digits\bin\Debug\06.Digits.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\06.Digits\bin\Debug\06.Digits.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\06.Digits\obj\Debug\06.Digits.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\06.Digits\obj\Debug\06.Digits.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\01.ProgrammingBasicsC#\08.Exam28August2016\06.Digits\obj\Debug\06.Digits.pdb
