@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndMethods\07.Greeting\bin\Debug\07.Greeting.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndMethods\07.Greeting\bin\Debug\07.Greeting.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndMethods\07.Greeting\bin\Debug\07.Greeting.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndMethods\07.Greeting\obj\Debug\07.Greeting.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndMethods\07.Greeting\obj\Debug\07.Greeting.pdb

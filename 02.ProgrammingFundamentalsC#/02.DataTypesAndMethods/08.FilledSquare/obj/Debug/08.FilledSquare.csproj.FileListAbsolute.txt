@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndMethods\08.FilledSquare\bin\Debug\08.FilledSquare.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndMethods\08.FilledSquare\bin\Debug\08.FilledSquare.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndMethods\08.FilledSquare\bin\Debug\08.FilledSquare.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndMethods\08.FilledSquare\obj\Debug\08.FilledSquare.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndMethods\08.FilledSquare\obj\Debug\08.FilledSquare.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndMethods\08.FilledSquare\obj\Debug\08.FilledSquare.pdb
