@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\03.PracticeCharsAndStrings\bin\Debug\03.PracticeCharsAndStrings.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\03.PracticeCharsAndStrings\bin\Debug\03.PracticeCharsAndStrings.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\03.PracticeCharsAndStrings\bin\Debug\03.PracticeCharsAndStrings.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\03.PracticeCharsAndStrings\obj\Debug\03.PracticeCharsAndStrings.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\03.PracticeCharsAndStrings\obj\Debug\03.PracticeCharsAndStrings.pdb

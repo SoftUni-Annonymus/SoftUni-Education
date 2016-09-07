@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\12.RectangleProperties\bin\Debug\12.RectangleProperties.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\12.RectangleProperties\bin\Debug\12.RectangleProperties.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\12.RectangleProperties\bin\Debug\12.RectangleProperties.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\12.RectangleProperties\obj\Debug\12.RectangleProperties.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\12.RectangleProperties\obj\Debug\12.RectangleProperties.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\12.RectangleProperties\obj\Debug\12.RectangleProperties.pdb

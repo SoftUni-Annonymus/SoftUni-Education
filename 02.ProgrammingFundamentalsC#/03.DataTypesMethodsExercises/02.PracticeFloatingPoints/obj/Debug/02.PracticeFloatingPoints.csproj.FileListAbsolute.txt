@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\02.PracticeFloatingPoints\bin\Debug\02.PracticeFloatingPoints.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\02.PracticeFloatingPoints\bin\Debug\02.PracticeFloatingPoints.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\02.PracticeFloatingPoints\bin\Debug\02.PracticeFloatingPoints.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\02.PracticeFloatingPoints\obj\Debug\02.PracticeFloatingPoints.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\02.PracticeFloatingPoints\obj\Debug\02.PracticeFloatingPoints.pdb

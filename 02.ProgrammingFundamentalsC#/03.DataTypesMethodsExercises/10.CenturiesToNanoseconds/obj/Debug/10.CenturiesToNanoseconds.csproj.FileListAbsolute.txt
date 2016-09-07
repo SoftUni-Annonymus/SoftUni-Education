@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.pdb

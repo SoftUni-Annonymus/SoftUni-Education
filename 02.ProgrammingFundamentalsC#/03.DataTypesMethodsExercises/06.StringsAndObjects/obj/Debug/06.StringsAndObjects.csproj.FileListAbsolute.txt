@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb

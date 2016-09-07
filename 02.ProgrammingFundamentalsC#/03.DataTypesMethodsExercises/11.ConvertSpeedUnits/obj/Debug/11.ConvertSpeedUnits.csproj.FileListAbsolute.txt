@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.pdb

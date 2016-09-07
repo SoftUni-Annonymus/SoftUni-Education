@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\04.VariableInHexFormat\bin\Debug\04.VariableInHexFormat.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\04.VariableInHexFormat\bin\Debug\04.VariableInHexFormat.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\04.VariableInHexFormat\bin\Debug\04.VariableInHexFormat.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\04.VariableInHexFormat\obj\Debug\04.VariableInHexFormat.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\04.VariableInHexFormat\obj\Debug\04.VariableInHexFormat.pdb
