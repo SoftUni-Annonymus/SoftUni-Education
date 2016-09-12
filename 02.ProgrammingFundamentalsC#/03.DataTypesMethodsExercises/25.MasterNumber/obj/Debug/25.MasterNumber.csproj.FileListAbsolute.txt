@@ -1,0 +1,1 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\25.MasterNumber\bin\Debug\25.MasterNumber.exe.config

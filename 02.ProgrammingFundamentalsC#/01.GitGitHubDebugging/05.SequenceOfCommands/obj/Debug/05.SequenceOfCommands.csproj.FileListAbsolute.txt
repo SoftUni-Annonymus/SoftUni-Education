@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\01.GitGitHubDebugging\05.SequenceOfCommands\bin\Debug\05.SequenceOfCommands.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\01.GitGitHubDebugging\05.SequenceOfCommands\bin\Debug\05.SequenceOfCommands.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\01.GitGitHubDebugging\05.SequenceOfCommands\bin\Debug\05.SequenceOfCommands.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\01.GitGitHubDebugging\05.SequenceOfCommands\obj\Debug\05.SequenceOfCommands.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\01.GitGitHubDebugging\05.SequenceOfCommands\obj\Debug\05.SequenceOfCommands.pdb

@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\24.PrimesInGivenRange\bin\Debug\24.PrimesInGivenRange.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\24.PrimesInGivenRange\bin\Debug\24.PrimesInGivenRange.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\24.PrimesInGivenRange\bin\Debug\24.PrimesInGivenRange.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\24.PrimesInGivenRange\obj\Debug\24.PrimesInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\24.PrimesInGivenRange\obj\Debug\24.PrimesInGivenRange.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\24.PrimesInGivenRange\obj\Debug\24.PrimesInGivenRange.pdb

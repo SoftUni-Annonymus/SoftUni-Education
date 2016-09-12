@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\21.NumbersInReversedOrder\bin\Debug\21.NumbersInReversedOrder.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\21.NumbersInReversedOrder\bin\Debug\21.NumbersInReversedOrder.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\21.NumbersInReversedOrder\bin\Debug\21.NumbersInReversedOrder.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\21.NumbersInReversedOrder\obj\Debug\21.NumbersInReversedOrder.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\21.NumbersInReversedOrder\obj\Debug\21.NumbersInReversedOrder.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesMethodsExercises\21.NumbersInReversedOrder\obj\Debug\21.NumbersInReversedOrder.pdb
