@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\07.CountNumbers\bin\Debug\07.CountNumbers.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\07.CountNumbers\bin\Debug\07.CountNumbers.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\07.CountNumbers\bin\Debug\07.CountNumbers.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\07.CountNumbers\obj\Debug\07.CountNumbers.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\07.CountNumbers\obj\Debug\07.CountNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\08.MatrixOfLetters\bin\Debug\08.MatrixOfLetters.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\08.MatrixOfLetters\bin\Debug\08.MatrixOfLetters.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\08.MatrixOfLetters\bin\Debug\08.MatrixOfLetters.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\08.MatrixOfLetters\obj\Debug\08.MatrixOfLetters.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\08.MatrixOfLetters\obj\Debug\08.MatrixOfLetters.pdb
