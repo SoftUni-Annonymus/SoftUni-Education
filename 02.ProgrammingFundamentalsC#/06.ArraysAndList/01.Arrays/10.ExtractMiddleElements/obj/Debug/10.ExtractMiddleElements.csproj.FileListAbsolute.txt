@@ -1,0 +1,7 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\04.Arrays\10.ExtractMiddleElements\bin\Debug\10.ExtractMiddleElements.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\10.ExtractMiddleElements\bin\Debug\10.ExtractMiddleElements.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\10.ExtractMiddleElements\bin\Debug\10.ExtractMiddleElements.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\10.ExtractMiddleElements\bin\Debug\10.ExtractMiddleElements.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\10.ExtractMiddleElements\obj\Debug\10.ExtractMiddleElements.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\10.ExtractMiddleElements\obj\Debug\10.ExtractMiddleElements.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\10.ExtractMiddleElements\obj\Debug\10.ExtractMiddleElements.pdb

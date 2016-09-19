@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\04.Arrays\04.LastKNumbersSums\bin\Debug\04.LastKNumbersSums.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\04.Arrays\04.LastKNumbersSums\bin\Debug\04.LastKNumbersSums.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\04.Arrays\04.LastKNumbersSums\bin\Debug\04.LastKNumbersSums.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\04.Arrays\04.LastKNumbersSums\obj\Debug\04.LastKNumbersSums.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\04.Arrays\04.LastKNumbersSums\obj\Debug\04.LastKNumbersSums.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\04.Arrays\04.LastKNumbersSums\obj\Debug\04.LastKNumbersSums.pdb

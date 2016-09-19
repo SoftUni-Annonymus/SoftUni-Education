@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\List\02.AppendLists\bin\Debug\02.AppendLists.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\List\02.AppendLists\bin\Debug\02.AppendLists.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\List\02.AppendLists\bin\Debug\02.AppendLists.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\List\02.AppendLists\obj\Debug\02.AppendLists.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\List\02.AppendLists\obj\Debug\02.AppendLists.pdb

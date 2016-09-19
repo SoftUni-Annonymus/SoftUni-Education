@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\04.Arrays\07.ReverseArrayOfStrings\bin\Debug\07.ReverseArrayOfStrings.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\04.Arrays\07.ReverseArrayOfStrings\bin\Debug\07.ReverseArrayOfStrings.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\04.Arrays\07.ReverseArrayOfStrings\bin\Debug\07.ReverseArrayOfStrings.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\04.Arrays\07.ReverseArrayOfStrings\obj\Debug\07.ReverseArrayOfStrings.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\04.Arrays\07.ReverseArrayOfStrings\obj\Debug\07.ReverseArrayOfStrings.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\04.Arrays\07.ReverseArrayOfStrings\obj\Debug\07.ReverseArrayOfStrings.csprojResolveAssemblyReference.cache
