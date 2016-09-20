@@ -1,0 +1,1 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\07.ArraysListExercises\03.FoldAndSum\bin\Debug\03.FoldAndSum.exe.config

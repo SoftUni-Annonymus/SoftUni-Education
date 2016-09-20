@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\07.ArraysListExercises\01.ListExercises\04.2x2SquaresInMatrix\bin\Debug\04.2x2SquaresInMatrix.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\07.ArraysListExercises\01.ListExercises\04.2x2SquaresInMatrix\bin\Debug\04.2x2SquaresInMatrix.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\07.ArraysListExercises\01.ListExercises\04.2x2SquaresInMatrix\bin\Debug\04.2x2SquaresInMatrix.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\07.ArraysListExercises\01.ListExercises\04.2x2SquaresInMatrix\obj\Debug\04.2x2SquaresInMatrix.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\07.ArraysListExercises\01.ListExercises\04.2x2SquaresInMatrix\obj\Debug\04.2x2SquaresInMatrix.pdb

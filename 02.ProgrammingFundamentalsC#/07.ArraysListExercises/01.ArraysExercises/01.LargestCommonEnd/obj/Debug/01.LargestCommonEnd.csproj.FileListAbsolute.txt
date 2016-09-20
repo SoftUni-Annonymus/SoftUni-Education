@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\07.ArraysListExercises\01.LargestCommonEnd\bin\Debug\01.LargestCommonEnd.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\07.ArraysListExercises\01.LargestCommonEnd\bin\Debug\01.LargestCommonEnd.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\07.ArraysListExercises\01.LargestCommonEnd\bin\Debug\01.LargestCommonEnd.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\07.ArraysListExercises\01.LargestCommonEnd\obj\Debug\01.LargestCommonEnd.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\07.ArraysListExercises\01.LargestCommonEnd\obj\Debug\01.LargestCommonEnd.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\07.ArraysListExercises\01.LargestCommonEnd\obj\Debug\01.LargestCommonEnd.pdb

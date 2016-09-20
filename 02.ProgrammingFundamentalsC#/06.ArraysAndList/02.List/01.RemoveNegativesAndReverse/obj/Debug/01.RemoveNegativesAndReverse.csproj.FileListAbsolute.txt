@@ -4,3 +4,6 @@ C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamenta
 C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\List\01.RemoveNegativesAndReverse\obj\Debug\01.RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
 C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\List\01.RemoveNegativesAndReverse\obj\Debug\01.RemoveNegativesAndReverse.exe
 C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\List\01.RemoveNegativesAndReverse\obj\Debug\01.RemoveNegativesAndReverse.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\01.RemoveNegativesAndReverse\bin\Debug\01.RemoveNegativesAndReverse.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\01.RemoveNegativesAndReverse\obj\Debug\01.RemoveNegativesAndReverse.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\01.RemoveNegativesAndReverse\obj\Debug\01.RemoveNegativesAndReverse.pdb

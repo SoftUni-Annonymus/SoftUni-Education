@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\07.ArraysListExercises\01.ListExercises\02.MatrixOfPalindromes\bin\Debug\02.MatrixOfPalindromes.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\07.ArraysListExercises\01.ListExercises\02.MatrixOfPalindromes\bin\Debug\02.MatrixOfPalindromes.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\07.ArraysListExercises\01.ListExercises\02.MatrixOfPalindromes\bin\Debug\02.MatrixOfPalindromes.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\07.ArraysListExercises\01.ListExercises\02.MatrixOfPalindromes\obj\Debug\02.MatrixOfPalindromes.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\07.ArraysListExercises\01.ListExercises\02.MatrixOfPalindromes\obj\Debug\02.MatrixOfPalindromes.pdb

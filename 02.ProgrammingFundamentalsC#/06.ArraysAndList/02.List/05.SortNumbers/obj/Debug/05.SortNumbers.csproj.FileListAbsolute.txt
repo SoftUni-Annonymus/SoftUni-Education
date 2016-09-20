@@ -3,3 +3,6 @@ C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamenta
 C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\List\05.SortNumbers\bin\Debug\05.SortNumbers.pdb
 C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\List\05.SortNumbers\obj\Debug\05.SortNumbers.exe
 C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\List\05.SortNumbers\obj\Debug\05.SortNumbers.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\05.SortNumbers\bin\Debug\05.SortNumbers.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\05.SortNumbers\obj\Debug\05.SortNumbers.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\06.ArraysAndList\02.List\05.SortNumbers\obj\Debug\05.SortNumbers.pdb
