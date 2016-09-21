@@ -1,0 +1,5 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndVariables\10.RefactorSpecialNumbers\bin\Debug\10.RefactorSpecialNumbers.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndVariables\10.RefactorSpecialNumbers\bin\Debug\10.RefactorSpecialNumbers.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndVariables\10.RefactorSpecialNumbers\bin\Debug\10.RefactorSpecialNumbers.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndVariables\10.RefactorSpecialNumbers\obj\Debug\10.RefactorSpecialNumbers.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndVariables\10.RefactorSpecialNumbers\obj\Debug\10.RefactorSpecialNumbers.pdb

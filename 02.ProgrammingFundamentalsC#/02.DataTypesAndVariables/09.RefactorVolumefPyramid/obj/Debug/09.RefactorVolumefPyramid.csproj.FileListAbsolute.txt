@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndVariables\09.RefactorVolumefPyramid\bin\Debug\09.RefactorVolumefPyramid.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndVariables\09.RefactorVolumefPyramid\bin\Debug\09.RefactorVolumefPyramid.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndVariables\09.RefactorVolumefPyramid\bin\Debug\09.RefactorVolumefPyramid.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndVariables\09.RefactorVolumefPyramid\obj\Debug\09.RefactorVolumefPyramid.csprojResolveAssemblyReference.cache
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndVariables\09.RefactorVolumefPyramid\obj\Debug\09.RefactorVolumefPyramid.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\02.DataTypesAndVariables\09.RefactorVolumefPyramid\obj\Debug\09.RefactorVolumefPyramid.pdb

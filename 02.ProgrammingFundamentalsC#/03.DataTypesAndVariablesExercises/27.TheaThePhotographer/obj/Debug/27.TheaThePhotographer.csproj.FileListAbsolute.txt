@@ -1,0 +1,6 @@
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesAndVariablesExercises\27.TheaThePhotographer\bin\Debug\27.TheaThePhotographer.exe.config
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesAndVariablesExercises\27.TheaThePhotographer\bin\Debug\27.TheaThePhotographer.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesAndVariablesExercises\27.TheaThePhotographer\bin\Debug\27.TheaThePhotographer.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesAndVariablesExercises\27.TheaThePhotographer\obj\Debug\27.TheaThePhotographer.exe
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesAndVariablesExercises\27.TheaThePhotographer\obj\Debug\27.TheaThePhotographer.pdb
+C:\Users\UzunovPC\Documents\Visual Studio 2015\Projects\02.ProgrammingFundamentalsC#\03.DataTypesAndVariablesExercises\27.TheaThePhotographer\obj\Debug\27.TheaThePhotographer.csprojResolveAssemblyReference.cache
